@@ -1,6 +1,6 @@
 # Project Title
 
-name and username
+Name and Username
 
 ## Demo link:
 
