@@ -6,7 +6,6 @@ import { v4 as uuidv4 } from 'uuid';
 import { MdDeleteForever } from 'react-icons/md';
 import DarkMode from './DarkMode';
 
-
 function App() {
   const userList = useSelector((state) => state.users.value);
   const dispatch = useDispatch();
