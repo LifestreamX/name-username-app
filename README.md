@@ -8,7 +8,7 @@ Name and Username
 
 ## About The App
 
-[name and username] is a mobile responsive app that allows you enter a name and a username and add it to the list. the user can also update the username and delete the username. 
+[name and username] is a mobile responsive app that allows you enter a name and a username and add it to the list. the user can also update the username and delete the username with dark mode toggle. 
 
 ![](screenshots/screenshot1.png)
 ![](screenshots/screenshot2.png)
